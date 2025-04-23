@@ -1,0 +1,44 @@
+/* reset */
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: oblique;
+
+}
+
+header {
+    background-image: url(img/2\ TOUR\ DEL\ GIAPPONE.jpg);
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: 25%;
+}
+
+h1 {
+    padding: 30px;
+    border: 2px solid black;
+}
+
+.black-white {
+    background-color: black;
+    color: white;
+}
+
+.text-red {
+    color: red;
+    font-size: 2em;
+}
+
+.text-parent {
+    color: brown;
+}
